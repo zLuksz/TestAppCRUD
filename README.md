@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 Images App
 
-<img src='./assets/images/ImagesApp/Image 1.jpg' width='50%'>
+<img src='./assets/images/ImagesApp/Image 1.jpg' width='20%'>
 
 ## Get started
 
