@@ -4,7 +4,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 Images App
 
-<img src='./assets/images/ImagesApp/Image 1.jpg' width='20%'>
+<img src='./assets/images/ImagesApp/Image 1.jpg' width='30%'>
+<img src='./assets/images/ImagesApp/Image 2.jpg' width='30%'>
+<img src='./assets/images/ImagesApp/Image 3.jpg' width='30%'>
+<img src='./assets/images/ImagesApp/Image 4.jpg' width='30%'>
+<img src='./assets/images/ImagesApp/Image 5.jpg' width='30%'>
+<img src='./assets/images/ImagesApp/Image 6.jpg' width='30%'>
+<img src='./assets/images/ImagesApp/Image 7.jpg' width='30%'>
+<img src='./assets/images/ImagesApp/Image 8.jpg' width='30%'>
 
 ## Get started
 
